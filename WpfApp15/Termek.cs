@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WpfAppSQLTermekek
+namespace WpfApp15
 {
     public class Termek
     {
